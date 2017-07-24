@@ -14,6 +14,7 @@ $appservlang = $_GET['appservlang'];
 /************************************************************************/
 include("appserv/main.php");
 
+
 print "<html>
 <head>
 <title>AppServ Open Project "._APPVERSION."</title>
